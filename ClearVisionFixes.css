@@ -685,6 +685,7 @@ div.footer-3mqk7D>button:nth-child(1):hover {
 [class*="theme-"] .item-1GzJrl {
   
   color: #3a71c1;
+  background: #000;
 }
 
 
@@ -909,7 +910,7 @@ input.quickMessage-2XpSaN.quickMessage-1yeL4E {
 }
 
 .username-1cB_5E {
-  font-size: 14px;
+  font-size: 1rem;
 }
 
 .scroller-2FKFPG.members-1998pB, .members-1998pB.scroller {
