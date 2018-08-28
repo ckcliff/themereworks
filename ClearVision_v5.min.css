@@ -4560,7 +4560,7 @@ ul.bda-slist{
     color:var(--main-color)
 }
 .context-menu .item,.theme-dark.context-menu .item{
-    color:#00b0f4;
+    color: #00b0f4;
     border-radius:3px;
     -webkit-transition:all .1s ease-in-out;
     transition:all .1s ease-in-out
