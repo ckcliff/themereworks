@@ -1,9 +1,10 @@
 //META{"name":"ClearVision_Sapphire","description":"A chilly, blue theme with customizable colors & background! Based on Discord Reborn by @Omniscient &DarkMatter by @Hammock. Server: https://discord.me/clearvision","author":"Zerthox","version":"5"}*//{}
 /* "ClearVision - Sapphire v5" by @Zerthox */
-/* Based on "Discord Reborn v4.30" by @Omniscient & "DarkMatter" by @Hammock */
+/* Based on "Discord Reborn v4.30" by @Omniscient & "DarkMatter" by @Hammock 
+	Rework by Cliff*/
 
 /* IMPORT CSS FROM GITHUB */
-@import url(https://zerthox.github.io/ClearVision/css/ClearVision_v5.min.css);
+@import url(https://ckcliff.github.io/themereworks/ClearVision_v5.min.css);
 /*
 ---------------------------------------------------------------------------------------------------------------------------------------------
 IMPORTANT: CHANGE BETWEEN DARK AND LIGHT VERSION IN APPEARANCE SETTINGS!
