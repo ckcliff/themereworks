@@ -679,11 +679,11 @@ div.footer-3mqk7D>button:nth-child(1):hover {
 }
 
 .menu-Sp6bN1 {
-  background: rgba(0, 0, 0, 0.8) !important;
+  background: rgba(0, 0, 0) !important;
 }
 
 [class*="theme-"] .item-1GzJrl:hover {
-  background: rgba(0, 0, 0, 0.8);
+  background: rgba(0, 0, 0);
   color: white;
 }
 
